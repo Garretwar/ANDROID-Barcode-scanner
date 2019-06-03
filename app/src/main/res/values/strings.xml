@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="OpenQR">Открить сканер</string>
+    <string name="Openbd">OpenBD</string>
+    <string name="Menu">Back</string>
+    <string name="Men">men</string>
+    <string name="id">ID</string>
+
+    <string name="todo">TODO</string>
+    <string name="BTN">Отримати</string>
+    <string name="button">Get_DATA</string>
+    <string name="ID">ID</string>
+    <string name="QR_GEN">QR_GEN</string>
+    <string name="TODO">TODO</string>
+    <string name="Links">Links</string>
+    <string name="Open">Open</string>
+
+</resources>
