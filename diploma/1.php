@@ -1,9 +1,9 @@
 <?php
 
-$host='https://rudy.zzz.com.ua/mysql/index.php'; 
+$host=''; 
 $database='Document'; 
-$user='xoloc';
-$pswd='22404673Qq';
+$user='';
+$pswd='';
  
 $dbh = mysql_connect($host, $user, $pswd) or die("Не могу соединиться с MySQL.");
 mysql_select_db($database) or die("Не могу подключиться к базе.");
