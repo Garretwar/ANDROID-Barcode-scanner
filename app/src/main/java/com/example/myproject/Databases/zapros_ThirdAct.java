@@ -24,7 +24,7 @@ import java.util.ArrayList;
 public class zapros_ThirdAct extends Thread {
     String id;
 
-    String Links = "111";
+    String Links = ""; // тут має бути лінк
 
     InputStream is = null;
     String result = null;
