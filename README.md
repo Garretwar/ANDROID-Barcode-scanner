@@ -1,3 +1,3 @@
 # ANDROID_Barcode
-This project only for diploma for bachelor
-Android Barcode Scanner and reader with myphpadmin
+This project was created for diploma (please do not judge harshly)
+Android Barcode Scanner and code direct link from ftp server
